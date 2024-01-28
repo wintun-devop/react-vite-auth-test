@@ -1,11 +1,12 @@
+import Dashboard from "./components/dashboard/dashboard"
+
+
 
 
 const  App = () =>{
 
   return (
-    <>
-        <h1>Home</h1>
-    </>
+    <Dashboard />
   )
 }
 
